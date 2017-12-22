@@ -11,7 +11,8 @@ Options: l,a,o,n,r,s,t,x,1,g,m,p,F,R
 - run 
     - $ make
     - $ ./ls -option
-    
- 
+  
+  ## Example:
+ ![Alt text](screen_shot.png?raw=true "Optional Title")
 
 
